@@ -1,0 +1,33 @@
+.about-btn {
+    display: inline-block;
+    font-size: 1rem;
+    text-transform: uppercase;
+    padding: 12px 32px 12px;
+    border: 1px solid #fce8d2;
+    margin-right: 5px;
+    background: transparent;
+    color: #fce8d2;
+    cursor: pointer;
+}
+
+.about-btn:hover {
+    background: rgba(255, 255, 255, 0.2);
+    color: white;
+    transition: 0.3s;
+}
+
+.about {
+    width: 100%;
+    margin: 3rem 0;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    height: 100%;
+    padding: 1rem;
+}
+
+p {
+    margin: 1.5rem 0;
+    padding: 15px 85px;
+}
