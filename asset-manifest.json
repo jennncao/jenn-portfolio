@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/my-app/static/css/main.68527bb9.css",
+    "main.css": "/my-app/static/css/main.ace8fa3c.css",
     "main.js": "/my-app/static/js/main.a80ec596.js",
     "static/media/travelrecs_home.png": "/my-app/static/media/travelrecs_home.aa15ed3db2ab1f024ca4.png",
-    "static/media/tree.jpg": "/my-app/static/media/tree.b8be9c13988a47fbcb72.jpg",
+    "static/media/sunset.jpg": "/my-app/static/media/sunset.d1a4fd29898a601b5c98.jpg",
     "static/media/city.jpg": "/my-app/static/media/city.42bfdd51c80ea456e568.jpg",
     "static/media/pandas2.png": "/my-app/static/media/pandas2.4592e47d1b0980fbec47.png",
     "static/media/lzw.png": "/my-app/static/media/lzw.e853c445b6361d1514ef.png",
     "index.html": "/my-app/index.html",
-    "main.68527bb9.css.map": "/my-app/static/css/main.68527bb9.css.map",
+    "main.ace8fa3c.css.map": "/my-app/static/css/main.ace8fa3c.css.map",
     "main.a80ec596.js.map": "/my-app/static/js/main.a80ec596.js.map"
   },
   "entrypoints": [
-    "static/css/main.68527bb9.css",
+    "static/css/main.ace8fa3c.css",
     "static/js/main.a80ec596.js"
   ]
 }
