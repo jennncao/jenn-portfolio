@@ -7,7 +7,7 @@
 
 .hero-img::before {
     content: "";
-    background: url("../assets/jellyfish.jpg");
+    background: url("../assets/IMG_6594.jpg");
     background-size: cover;
     background-position: center top;
     height: 100%;
